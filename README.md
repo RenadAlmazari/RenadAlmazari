@@ -2,7 +2,6 @@
  - 😄 I’m interested in Projects & Products Management Field 
  - 🌱 I’m currently learning How can we break out with great project and create the kind of well, meaningful results? By following Agile & Scrum Master approach
  - 👯 I’m looking to collaborate on Projects or Products Managers Teams, and working in this as a junior in Product Management 
- - 📫 How to reach me; by my email: renadalmazari36@gmail.com
 <!--
 **RenadAlmazari/RenadAlmazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
